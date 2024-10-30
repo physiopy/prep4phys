@@ -1,3 +1,45 @@
+# 0.5.2 (Wed Oct 09 2024)
+
+#### 🐛 Bug Fix
+
+- Make sure peak detection works with negative signals [#84](https://github.com/physiopy/peakdet/pull/84) ([@smoia](https://github.com/smoia))
+
+#### 🏠 Internal
+
+- [pre-commit.ci] pre-commit autoupdate [#75](https://github.com/physiopy/peakdet/pull/75) ([@pre-commit-ci[bot]](https://github.com/pre-commit-ci[bot]))
+
+#### Authors: 2
+
+- [@pre-commit-ci[bot]](https://github.com/pre-commit-ci[bot])
+- Stefano Moia ([@smoia](https://github.com/smoia))
+
+---
+
+# 0.5.1 (Tue Aug 27 2024)
+
+:tada: This release contains work from a new contributor! :tada:
+
+Thank you, Marie-Eve Picard ([@me-pic](https://github.com/me-pic)), for all your work!
+
+#### 🐛 Bug Fix
+
+- Fix type errors in exporting history after manually adding peaks [#79](https://github.com/physiopy/peakdet/pull/79) ([@smoia](https://github.com/smoia))
+
+#### 📝 Documentation
+
+- Update contributors [#82](https://github.com/physiopy/peakdet/pull/82) ([@smoia](https://github.com/smoia))
+
+#### 🏠 Internal
+
+- Add contribution [#81](https://github.com/physiopy/peakdet/pull/81) ([@me-pic](https://github.com/me-pic))
+
+#### Authors: 2
+
+- Marie-Eve Picard ([@me-pic](https://github.com/me-pic))
+- Stefano Moia ([@smoia](https://github.com/smoia))
+
+---
+
 # 0.5.0 (Fri Jul 19 2024)
 
 #### 🚀 Enhancement
