@@ -148,7 +148,7 @@ def peakfind_physio(data, *, thresh=0.2, dist=None):
     # check if data is negative, if so make it all positive and continue with signal
     phys_signal = data.data - data.data.min() if data.data.min() < 0 else data.data
     logger.debug(
-        f"Negative signal detected (min = {data.data.min()}), workgin with positive signal for peak detection."
+        f"Negative signal detected (min = {data.data.min()}), working with positive signal for peak detection."
     )
 
     thresh = np.squeeze(np.diff(np.percentile(phys_signal, [5, 95]))) * thresh
