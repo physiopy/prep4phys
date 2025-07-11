@@ -1,5 +1,5 @@
 {
-  "projectName": "peakdet",
+  "projectName": "prep4phys",
   "projectOwner": "physiopy",
   "repoType": "github",
   "repoHost": "https://github.com",
@@ -89,6 +89,17 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "RayStick",
+      "name": "Rachael Stickland",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50215726?v=4",
+      "profile": "https://github.com/RayStick",
+      "contributions": [
+        "infra",
+        "doc"
+      ]
     }
-  ]
+  ],
+  "commitType": "docs"
 }
