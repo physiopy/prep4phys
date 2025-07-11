@@ -13,7 +13,7 @@ peakdet: A toolbox for physiological peak detection analyses
 [![See the documentation at: http://peakdet.readthedocs.io](https://readthedocs.org/projects/peakdet/badge/?version=latest)](http://peakdet.readthedocs.io/en/latest)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This package is designed for use in the reproducible processing and analysis of
@@ -64,6 +64,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="25%"><a href="https://github.com/eurunuela"><img src="https://avatars.githubusercontent.com/u/13706448?v=4?s=100" width="100px;" alt="Eneko Uruñuela"/><br /><sub><b>Eneko Uruñuela</b></sub></a><br /><a href="#infra-eurunuela" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
       <td align="center" valign="top" width="25%"><a href="https://github.com/xl624"><img src="https://avatars0.githubusercontent.com/u/25593301?v=4?s=100" width="100px;" alt="xl624"/><br /><sub><b>xl624</b></sub></a><br /><a href="https://github.com/physiopy/prep4phys/commits?author=xl624" title="Code">💻</a></td>
       <td align="center" valign="top" width="25%"><a href="https://github.com/RayStick"><img src="https://avatars.githubusercontent.com/u/50215726?v=4?s=100" width="100px;" alt="Rachael Stickland"/><br /><sub><b>Rachael Stickland</b></sub></a><br /><a href="#infra-RayStick" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/physiopy/prep4phys/commits?author=RayStick" title="Documentation">📖</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="25%"><a href="https://github.com/me-pic"><img src="https://avatars.githubusercontent.com/u/77584086?v=4?s=100" width="100px;" alt="Marie-Eve Picard"/><br /><sub><b>Marie-Eve Picard</b></sub></a><br /><a href="https://github.com/physiopy/prep4phys/pulls?q=is%3Apr+reviewed-by%3Ame-pic" title="Reviewed Pull Requests">👀</a></td>
     </tr>
   </tbody>
 </table>
